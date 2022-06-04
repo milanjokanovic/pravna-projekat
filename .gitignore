@@ -81,3 +81,4 @@ outputs/checkpoint-1186-epoch-1/model_args.json
 outputs/checkpoint-1186-epoch-1/config.json
 cache_dir/cached_train_bert_128_10_2
 cache_dir/cached_dev_bert_128_10_2
+models/BERT.sav
