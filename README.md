@@ -43,7 +43,7 @@ Pokretanje je moguće izvršiti iz okruženja jupyter notebook.
 U slučaju potrebe za pokretanjem (moguće videti rezultate i bez pokretanja) predlaže se pokretanje samo Tests.ipynb.  
 Pokretanje ostalih fajlove može dovesti do promene u sačuvanim modelima.  
 
-**Napomena**!!!
+**Napomena**!!!  
 Za pokretanje LSTM_GloVe.ipynb neophodno je skinuti GloVe fajl i napraviti GloVe folder u repozitorijumu. Potom skinut fajl dodati u novonastali folder.  
 Fajl dostupan na linku: https://drive.google.com/file/d/12iAJo3p-f6hk72cg7Zd4w8SsgIX3x__O/view?usp=sharing
 
