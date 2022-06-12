@@ -38,14 +38,14 @@ Ovaj folder sadrži fajlove u kojima su sačuvani trenirani modeli (težine). Na
 - Tests.ipynb sadrži testove svih korišćenih modela. Testovi su izvršeni tako da se rezultati mogu videti bez pokretanja samog koda. 
 
 ## Upustvo za pokretanje
-Za pokretanje je poželjno imati najnovije stabilne verzije biblioteka tensorflow, keras i sci-kit learn (pisano 12.06.2022.).
-Pokretanje je moguće izvršiti iz okruženja jupyter notebook.
-U slučaju potrebe za pokretanjem (moguće videti rezultate i bez pokretanja) predlaže se pokretanje samo Tests.ipynb. 
-Pokretanje ostalih fajlove može dovesti do promene u sačuvanim modelima.
+Za pokretanje je poželjno imati najnovije stabilne verzije biblioteka tensorflow, keras i sci-kit learn (pisano 12.06.2022.).  
+Pokretanje je moguće izvršiti iz okruženja jupyter notebook.  
+U slučaju potrebe za pokretanjem (moguće videti rezultate i bez pokretanja) predlaže se pokretanje samo Tests.ipynb.  
+Pokretanje ostalih fajlove može dovesti do promene u sačuvanim modelima.  
 
 **Napomena**!!!
-Za pokretanje LSTM_GloVe.ipynb neophodno je skinuti GloVe fajl i napraviti GloVe folder u repozitorijumu. Potom skinut fajl dodati u novonastali folder. 
+Za pokretanje LSTM_GloVe.ipynb neophodno je skinuti GloVe fajl i napraviti GloVe folder u repozitorijumu. Potom skinut fajl dodati u novonastali folder.  
 Fajl dostupan na linku: https://drive.google.com/file/d/12iAJo3p-f6hk72cg7Zd4w8SsgIX3x__O/view?usp=sharing
 
-Za pokretanje BERT sekcije u Tests.ipynb potrebno je skinuti fajl sa linka: https://drive.google.com/file/d/1HRMNs2gOdSB0jevEA36DTY5KYqz1NPI-/view?usp=sharing
+Za pokretanje BERT sekcije u Tests.ipynb potrebno je skinuti fajl sa linka: https://drive.google.com/file/d/1HRMNs2gOdSB0jevEA36DTY5KYqz1NPI-/view?usp=sharing  
 Nakon sto se skine i raspakuje, dodati fajl u folder models.
