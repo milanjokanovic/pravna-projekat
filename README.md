@@ -1,5 +1,7 @@
 # Klasifikacija delova politike privatnosti
 
+U fajlu **Klasifikacija delova politike privatnosti.pdf** se nalazi rad vezan za ovaj projekat.
+
 Ovaj rad se bavi klasifikacijom delova politike privatnosti.
 Postojeće klase su sledeće: 
   - First Party Collection/Use
